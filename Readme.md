@@ -26,13 +26,3 @@
 ► 𝘾𝙤𝙧𝙚 𝙎𝙠𝙞𝙡𝙡𝙨: <img src="https://img.shields.io/badge/UX%2FUI-000000?style=flat-square&logo=figma&logoColor=00FF41" height="20"/> <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=3178C6" height="20"/><br><br>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4"/>
 </p>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%20Tactical%20Metrics&fontSize=22&fontColor=00FF41&fontAlign=50&stroke=00FF41&strokeWidth=1" width="100%" />
-<br/><br/>
-<a href="https://github.com/anuraghazal/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Shyadou&show_icons=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&hide_border=true" height="180" alt="Stats" />
-</a>
-<a href="https://github.com/anuraghazal/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyadou&layout=compact&bg_color=000000&title_color=00FF41&text_color=FFFFFF&hide_border=true" height="180" alt="Langs" />
-</a>
-<br/><br/>
